@@ -1,1 +1,1 @@
-Competition for Reeinforcement Learning
+Competition for Reinforcement Learning
